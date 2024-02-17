@@ -1,8 +1,8 @@
 public class App {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		tutorial01.main(args);
+		tutorial02.main(args);
 	}
 
 }
