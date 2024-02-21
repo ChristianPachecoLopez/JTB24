@@ -1,3 +1,4 @@
+package tutorial25_TheToStringMethod;
 class Frog2 {
 
 	private int id;

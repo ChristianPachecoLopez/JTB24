@@ -1,3 +1,4 @@
+package tutorial18_Methods;
 class Person2 {
 
 	// Instance variables (data or "state")

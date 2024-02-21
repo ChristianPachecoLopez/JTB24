@@ -1,3 +1,4 @@
+package tutorial21_SettersAndThis;
 class Frog {
 	private String name;
 	private int age;

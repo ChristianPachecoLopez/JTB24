@@ -1,3 +1,4 @@
+package tutorial23_StaticAndFinal;
 class Thing {
 	public final static int LUCKY_NUMBER = 7;
 
