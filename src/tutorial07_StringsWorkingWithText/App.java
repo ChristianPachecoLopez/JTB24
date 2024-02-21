@@ -1,5 +1,6 @@
+package tutorial07_StringsWorkingWithText;
 
-public class tutorial04 {
+public class App {
 
 	public static void main(String[] args) {
 

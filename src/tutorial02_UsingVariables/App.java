@@ -1,5 +1,6 @@
+package tutorial02_UsingVariables;
 
-public class tutorial02 {
+public class App {
 	public static void main(String[] args) {
 		// Variable declarations
 		int myNumber = 88;
