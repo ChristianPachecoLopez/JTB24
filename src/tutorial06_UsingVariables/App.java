@@ -1,4 +1,4 @@
-package tutorial02_UsingVariables;
+package tutorial06_UsingVariables;
 
 public class App {
 	public static void main(String[] args) {
