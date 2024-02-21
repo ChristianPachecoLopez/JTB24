@@ -1,3 +1,4 @@
+package tutorial11_GettingUserInput;
 import java.util.Scanner;
 
 public class tutorial11 {

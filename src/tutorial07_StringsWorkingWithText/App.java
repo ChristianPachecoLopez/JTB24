@@ -3,15 +3,20 @@ package tutorial07_StringsWorkingWithText;
 public class App {
 
 	public static void main(String[] args) {
+		int myInt = 7;
 
-		int value = 0;
+		String text = "Hello";
+		String blank = " ";
+		String name = "Bob";
+		String greeting = text + blank + name;
 
-		while (value < 10) {
+		System.out.println(greeting);
+		System.out.println("Hello" + " " + name);
+		System.out.println("My integer is: " + myInt);
 
-			System.out.println("Hello " + value);
+		double myDouble = 7.8;
 
-			value = value + 1;
-		}
+		System.out.println("My number is: " + myDouble + ".");
+
 	}
-
 }
