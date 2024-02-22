@@ -39,10 +39,8 @@ public class App {
 		try {
 			test.input();
 		} catch (FileNotFoundException e) {
-
 			e.printStackTrace();
 		} catch (IOException e) {
-
 			e.printStackTrace();
 		}
 
