@@ -1,6 +1,7 @@
 package tutorial34_UsingGenerics;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class App {
 
@@ -28,6 +29,18 @@ public class App {
 		String animal = strings.get(1);
 
 		System.out.println(animal);
+
+		///////////// There can be more than one type argument ////////////////////
+
+		HashMap<Integer, String> map = new HashMap<Integer, String>();
+
+		//////////// Java 7 style /////////////////////////////////
+
+		ArrayList<Animal> someList = new ArrayList<>();
 	}
+
+}
+
+class Animal {
 
 }
